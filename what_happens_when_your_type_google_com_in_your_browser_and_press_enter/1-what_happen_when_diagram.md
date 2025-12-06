@@ -123,7 +123,7 @@ A simple white screen hiding a world of complexity behind a single key press.
 
 The following diagram summarizes the full journey of the request when you type **https://www.google.com** and press Enter:
 
-![](https://imgur.com/d1b4nbY)
+<img width="2762" height="386" alt="image" src="https://github.com/user-attachments/assets/47da43c1-5256-465a-abeb-7e3404ce726a" />
 
 ---
 
